@@ -16,8 +16,7 @@ function App() {
         <Router>
           <div>
            <Navbar/>
-            
-            <Switch>
+             <Switch>
                  <Route exact path="/" component={ProductList} />
                  <Route path="/cart" component={Cart} />
                  <Route path="/details" component={Details} />
