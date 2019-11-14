@@ -37,7 +37,7 @@ function Navbar () {
     background: var(--mainBlue) !important;
     .nav-link{
         color: var(--mainWhite) !important;
-        font-size: 2.3rem;
+        font-size: 1.3rem;
         text-transform: capitalize;
         font-family: Gabriola;
     }
